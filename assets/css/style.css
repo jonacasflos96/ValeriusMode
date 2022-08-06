@@ -7,16 +7,16 @@
   width: 100%; }
 
 .main .tarjetita, .main2 .tarjetita {
-  background-color: #f2f0f8; }
+  background-color: #f1f1fa; }
 
 .main h5, .main2 h5 {
   color: #383880; }
 
 .main2 .tarjetita {
-  background-color: #e0dee4; }
+  background-color: #f1f1fa; }
 
 .navbar {
-  height: 100px; }
+  height: 70px; }
   .navbar li {
     padding: 8px; }
   .navbar a {
