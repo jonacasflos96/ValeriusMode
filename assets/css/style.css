@@ -20,19 +20,19 @@
   .navbar li {
     padding: 8px; }
   .navbar a {
-    color: #2c2e2e;
+    color: #0f1616;
     font-size: 16px; }
   .navbar .card {
-    background-color: #edf3ed; }
+    background-color: #266926; }
 
 .footer {
-  background-color: #302e2e;
+  background-color: #464343;
   height: 150px;
   display: grid;
   align-items: center;
   place-content: center; }
   .footer p {
-    color: azure;
+    color: white;
     font-size: 16px; }
 
 .btn {
